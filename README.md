@@ -1,10 +1,13 @@
 # bmi_calculator
+<p>
+<img src="https://user-images.githubusercontent.com/87140247/153666077-7a7ac443-a42a-4b97-8702-c91c6a963bc9.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/87140247/153666067-83b04941-65a4-441b-a56a-3365581bb05b.jpeg" width="200">
+</p>
 
-A new Flutter project.
 
 References:
-- (https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed)
-- (https://github.com/MarcinusX/bmi_calculator)
+- https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed
+- https://github.com/MarcinusX/bmi_calculator
 
 ## Getting Started
 
