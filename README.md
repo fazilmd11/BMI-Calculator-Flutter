@@ -1,8 +1,6 @@
 # bmi_calculator
-<p>
-<img src="https://user-images.githubusercontent.com/87140247/153666077-7a7ac443-a42a-4b97-8702-c91c6a963bc9.jpeg" width="200">
-<img src="https://user-images.githubusercontent.com/87140247/153666067-83b04941-65a4-441b-a56a-3365581bb05b.jpeg" width="200">
-</p>
+
+<img src="https://user-images.githubusercontent.com/87140247/153668241-d142fb83-c719-421a-a1f6-51d1f745c77a.gif" width="200">
 
 
 References:
