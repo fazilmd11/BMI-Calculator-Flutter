@@ -3,8 +3,8 @@
 A new Flutter project.
 
 References:
-(https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed)
-(https://github.com/MarcinusX/bmi_calculator)
+- (https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed)
+- (https://github.com/MarcinusX/bmi_calculator)
 
 ## Getting Started
 
